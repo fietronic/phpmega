@@ -17,5 +17,5 @@ It is simple enough.
 
 ---
 
-May all who seek it find freedom from suffering.
+May those who seek it find freedom from suffering.
 -fie
