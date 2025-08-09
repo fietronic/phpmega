@@ -1,4 +1,4 @@
-# PHPMega
+# PHPMeGa
 PHP Media Gallery
 
 Single file drop in gallery for photos and videos using glightbox.
