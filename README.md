@@ -1,5 +1,5 @@
-# PHPMeGa
-PHP Media Gallery
+# YaMeGa [Yuh-MEE-guh]
+Yet Another Media Gallery
 
 Single file drop in gallery for photos and videos using glightbox.
 
